@@ -1,0 +1,80 @@
+
+
+.header {
+    width: 100%;
+    background-color: rgb(29, 29, 29);
+    height: 100px;
+  } 
+
+  img {
+    width: 11rem;
+    margin-left: 1rem;
+  }
+  .logo{
+    text-decoration: none;
+  }
+  span {
+    font-size: 3rem;
+    color: white;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .header-content-nav{
+    overflow: hidden;
+    width: 60%;
+    float: right;
+    overflow: hidden;
+    background-color: rgb(29, 29, 29);
+    margin-top: 22px;
+  }
+
+  ul {
+    list-style-type: none;
+    float: right;
+    margin: 3px 25px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  .link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+  }
+
+  li .link:hover {
+    background-color: #333;
+    border-radius: 15px;
+  }
+  
+  button {
+    float: right;
+    text-align: center;
+    padding: 15px 28px;
+    margin-right: 1.5rem;
+    border-radius: 15px;
+    color: black;
+  }
+  .navLink-login button {
+    background-color: #06a106;
+  }  
+  .navLink-login button:hover {
+    background-color: #08df08;
+    color: white;
+    border-color: white;
+  }
+  .navLink-basket button {
+    background-color: white;
+    color: black;
+  }
+  .navLink-basket button:hover {
+    background-color: rgb(29, 29, 29);
+    color: white;
+    border-color: #06a106;
+  }
