@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink, Link } from 'react-router-dom';
 import Logo from '../assets/images/29348.png'
+import {FaShoppingCart} from 'react-icons/fa';
 
 const Header = () => {
   return (
@@ -12,7 +13,7 @@ const Header = () => {
         </NavLink>
         <nav className='header-content-nav'>
           <NavLink className='navLink-basket' to="/basket">
-            <button>Basket</button>
+            <button> <FaShoppingCart /> </button>
           </NavLink>
 
           <NavLink className='navLink-login' to="/login">
@@ -26,7 +27,7 @@ const Header = () => {
               <Link className='link' to="/accessories">Accessories</Link>
             </li>
             <li>
-              <Link className='link' to="/stores">Stores</Link>
+              <Link className='link' to="/about">About</Link>
             </li>
             <li>
               <Link className='link' to="/contact">Contact</Link>

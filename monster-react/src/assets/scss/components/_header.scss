@@ -56,13 +56,13 @@
   button {
     float: right;
     text-align: center;
-    padding: 15px 28px;
-    margin-right: 1.5rem;
     border-radius: 15px;
     color: black;
   }
   .navLink-login button {
     background-color: #06a106;
+    padding: 15px 28px;
+    margin-right: 10px;
   }  
   .navLink-login button:hover {
     background-color: #08df08;
@@ -72,6 +72,9 @@
   .navLink-basket button {
     background-color: white;
     color: black;
+    font-size: 1.3rem;
+    padding: 11px 23px;
+    margin-right: 2.5rem;
   }
   .navLink-basket button:hover {
     background-color: rgb(29, 29, 29);

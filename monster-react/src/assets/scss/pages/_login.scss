@@ -1,0 +1,58 @@
+.login {
+    display: grid;
+    place-items: center;
+    margin-top: 6rem;
+    padding-top: 1.25rem;
+  
+    & > h2 {
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 500;
+      cursor: pointer;
+      margin-bottom: 1.5rem;
+    }
+  
+    & > form {
+      display: flex;
+      flex-direction: column;
+  
+      & > .input-wrapper {
+        & > input {
+          width: 18.75rem;
+          height: 3.125rem;
+          font-size: 1.25rem;
+          padding-left: 0.625rem;
+          margin-bottom: 1rem;
+          border-radius: 0.3125rem;
+          border: 1px solid rgb(29, 29, 29);
+        }
+      }
+  
+      & > a {
+        cursor: pointer;
+        font-weight: 500;
+        color: rgb(29, 29, 29);
+        text-decoration: none;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  
+    &-button {
+      height: 4rem;
+      width: 19.2rem;
+      font-size: large;
+      color: white;
+      background: rgb(29, 29, 29);
+      margin-top: 1rem;
+      border-radius: 1.5rem;
+      border: 1px solid lightgray;
+      cursor: pointer;
+  
+      &:hover {
+        border-color: #333;
+        background: #333;
+      }
+    }
+  }
