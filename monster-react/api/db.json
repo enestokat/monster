@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Pusat V11 Gaming Mouse",
+      "description": "Adjustable 10000 DPI. 8 Programmable Keys. 1 Ms Reporting Rate. 7-Color RGB Lighting with. EffectsDurable and Comfortable Design.",
+      "images": "https://live.staticflickr.com/65535/52744779687_3929682d25_w.jpg",
+      "price": "$100" 
+    },
+    {
+      "id": 2,
+      "title": "Pusat Gaming Headset Lite",
+      "description": "40mm Headphone Diameter. 210cm Cable Length. Connection via USB.",
+      "images": "https://live.staticflickr.com/65535/52747338800_2238d516af_w.jpg",
+      "price": "$150" 
+    },
+    {
+      "id": 3,
+      "title": "Pusat V5 Oyuncu Mouse",
+      "description": "Full-Size and Ergonomic Design. Adjustable 24000 DPI Surface Scan Sensitivity. Adjustable Weight Set. 11 Programmable Keys. 1 Ms Reporting Rate",
+      "images": "https://live.staticflickr.com/65535/52747196329_c1fb406234_z.jpg",
+      "price": "$180" 
+    },
+    {
+      "id": 4,
+      "title": "Pusat Clutch Gamepad",
+      "description": "Vibration and Motion Sensor. Phone Holder. XYAB RGB Led Indicators. Interchangeable D-Pad. XInput/DirectInput Support",
+      "images": "https://live.staticflickr.com/65535/52746966401_4e6300ca19_z.jpg",
+      "price": "$250" 
+    },
+    {
+      "id": 5,
+      "title": "K3 Pro Mechanical Keyboard",
+      "description": "Red Mechanical Switch. Anti-Ghosting Feature for All Keys. Customizable RGB Lighting. Wrist Rest and Full-Size Design. Programmable Keys and Volume Dial",
+      "images": "https://live.staticflickr.com/65535/52747407350_1b766a16fb_z.jpg",
+      "price": "$200" 
+    },
+    {
+      "id": 6,
+      "title": "Bukra V1 Bluetooth Speaker",
+      "description": "IPX7 Water and Dust Resistant. Up to 12 Hours of Music Listening Time. 20 Watt Sound Power.",
+      "images": "https://live.staticflickr.com/65535/52747504833_6a8240bd79.jpg",
+      "price": "$230"
+    },
+    {
+      "id": 7,
+      "title": "Oron Gaming Chair",
+      "description": "Backrest can be tilted 130 degrees backwards. Tilt Back Fixing. The Most Appropriate Design for Body Structure with Ergonomic Design.",
+      "images": "https://live.staticflickr.com/65535/52747428455_2ecfc89e96.jpg",
+      "price": "$400"
+    },
+    {
+      "id": 8,
+      "title": "Pusat XL RGB Tulpar Mousepad",
+      "description": "QI Supported Wireless Charging Station (10Watt). Non-Slip Rubber Base. Different RGB Lighting Modes.",
+      "images": "https://live.staticflickr.com/65535/52747300099_9fefcb9f48_z.jpg",
+      "price": "$50" 
+    },
+    {
+      "id": 9,
+      "title": "Curved Gaming Monitor",
+      "description": "32” Frameless Curved Widescreen 16:9. 165 Hz Screen Refresh Rate.1Ms Response Time. Built-in Speaker. HDR10 and MRPT Technologies.",
+      "images": "https://live.staticflickr.com/65535/52746534252_7718a9d4a5_z.jpg",
+      "price": "$500" 
+    },
+    {
+      "id": 10,
+      "title": "Gaming Headset Stand",
+      "description": "Robust and Durable Design with Adjustable RGB Lights. 2 USB Outputs. Data Transfer and Charging.",
+      "images": "https://live.staticflickr.com/65535/52747490500_640a1175a5_w.jpg",
+      "price": "$100" 
+    }
+  ],
+  "data":[
+    {
+      "id": 1,
+      "title": "Tulpar T7 V20.5 17,3",
+      "images": "https://live.staticflickr.com/65535/52749919331_8a5d336e01_c.jpg",
+      "price": "$800",
+      "description_title": "TECHNICAL SPECIFICATIONS",
+      "description": "·Intel® Alder Lake Core™ i7-12700H 14C/20T; 24MB L3;\nE-CORE Max 3.50GHZ P-CORE Max 4.7GHZ;45W\n·Nvidia RTX3060 Max-Performance 6GB GDDR6 192-Bit\n·17.3 FHD 1920x1080 144Hz IPS Matte LED Display\n·16GB (2x8GB) DDR4 3200MHz\n·512GB SAMSUNG PM9B1 M.2 SSD PCIe 4.0 x4\n·FreeDos (No operating system)\n·2 Disk Support (2x M.2 SSD)\n·RGB Single Zone Backlit Keyboard (Turkish Q)\n·30.05mm Thickness\n·2.5kg Weight\n·Monster Backpack Gift\n·Reinforced Plastic Casing."
+    },
+    {
+      "id":2,
+      "title": "Semruk S7 V8.1.1 17,3",
+      "images": "https://live.staticflickr.com/65535/52750236785_09186d903f_c.jpg",
+      "price": "$2000",
+      "description_title": "TECHNICAL SPECIFICATIONS",
+      "description": "Intel Rocket Lake Core™ i9-11900K 8C/16T; 16MB L3; 8GT/s; 3.5GHz > 5.3GHz; 125W; 14nm.\nWindows 11 Pro.\nNvidia RTX3080 Max-Performance 16GB GDDR6 256-Bit.\n17.3 UHD 3840x2160 100% Adobe RGB IPS Matte LED Display.\n32GB (2x16GB) DDR4 1.2V 3200MHz.\n1TB SAMSUNG PM991A M.2 SSD PCIe 3.0 x4.\n4 Disk Support (4x M.2 SSD).\nCustomizable RGB Backlit Keyboard.\n43.5mm Thinness.\n4.5 Kg Weight.\nMonster Backpack Gift"
+    },
+    {
+      "id":3,
+      "title": "Markut M7 V5.1 17,3",
+      "images": "https://live.staticflickr.com/65535/52749803601_68f305cd5d_z.jpg",
+      "price": "$2500",
+      "description_title": "TECHNICAL SPECIFICATIONS",
+      "description": "Intel® Alder Lake Core™ i7-12700H 14C/20T; 24MB L3;\nE-CORE Max 3.50GHZ P-CORE Max 4.7GHZ;45W\nNvidia RTX3060 Max-Performance 6GB GDDR6 192-Bit.\n17.3 FHD 1920x1080 144Hz IPS Matte LED Display.\n16GB (2x8GB) DDR4 3200MHz.\n512GB SAMSUNG PM9B1 M.2 SSD PCIe 4.0 x4·FreeDos (No operating system).\n2 Disk Support (2x M.2 SSD).\nRGB Single Zone Backlit Keyboard (Turkish Q).\n30.05mm Thickness.\n2.5kg Weight·Monster Backpack Gift.\nReinforced Plastic Casing."
+    },
+    {
+      "id":4,
+      "title": "Tulpar T7 V21.9 17,3",
+      "images": "https://live.staticflickr.com/65535/52749391807_c497a11ee3_c.jpg",
+      "price": "$1400",
+      "description_title": "TECHNICAL SPECIFICATIONS",
+      "description": "Intel® Alder Lake Core™ i7-12700H 14C/20T; 24MB L3;\nE-CORE Max 3.50GHZ P-CORE Max 4.7GHZ;45.\n8 GB RTX 3070Ti 256 Bit Max-P 125 Watt + 25Watt DB 2.\n17,3 QHD 2560x1440 165Hz IPS Mat LED Displa.\n16GB (2x8GB) DDR5 4800MH.\n512GB SAMSUNG PM9B1 M.2 SSD PCIe 4.0 x.\nFreeDos (No operating system.\n2 Disk Support (2x M.2 SSD.\nRGB Single Zone Backlit Keyboard (Turkish Q.\n20.00mm Thickness\n2.3kg Weigh.\nMonster Backpack Gift\nReinforced Plastic Casing."
+    },
+    {
+      "id":5,
+      "title": "Abra A5 V16.7.4 15,6",
+      "images": "https://live.staticflickr.com/65535/52750190865_d0491960b9_z.jpg",
+      "price": "$600",
+      "description_title": "TECHNICAL SPECIFICATIONS",
+      "description": "Intel® Tiger Lake Core™ i5-11400H 6C/12T; 12MB L3;\n8GT/s; 2.7GHz > 4.5GHz; 45W; 10nm SuperFin.\nNvidia GTX1650 4GB GDDR6 128-Bit DX12.\n15.6 FHD 1920x1080 144Hz Matte LED Display.\n32GB (2x16GB) DDR4 1.2V 3200MHz SODIMM.\n1TB SAMSUNG PM991A M.2 SSD PCIe 3.0 x4.\nFreeDos (No operating system available..\n3 Disks Support (2x M.2 SSD + 1x 2.5 Disk).\nRGB Single Zone Backlit Keyboard.\n24.9mm Thickness.\n2.2Kg Weight.\nAluminum Reinforced Case.\nMonster Backpack Gift."
+    }
+  ]
+}

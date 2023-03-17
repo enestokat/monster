@@ -1,14 +1,15 @@
 import React from 'react'
+import AccessoriesCard from '../components/AccessoriesCard';
 
 const Accessories = () => {
   return (
-    <div>
-      <div className='text-center'>
+    <div className='text-center'>
         <h2 className='accessories' >Accessories</h2>
         <hr />
+        <AccessoriesCard />
       </div>
-    </div>
   )
 }
 
-export default Accessories
+export default Accessories;
+

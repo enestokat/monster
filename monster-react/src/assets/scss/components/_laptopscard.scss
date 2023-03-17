@@ -1,0 +1,40 @@
+.laptop-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 77vh;
+    justify-content: center;
+    .card-container{
+        margin: 12px;
+        border-radius: 1rem;
+        .cardMedia{
+            background-color: #15161a;
+            .cards-image{
+                object-fit: contain;
+                margin-left: 1px;
+            }
+        }
+        .contentCard{
+            height: 20rem;
+            .titleCard {
+                font-weight: bold;
+            }
+            .descriptionCard {
+                font-weight: bold;
+                color: #2e2c2c;
+            }
+        }
+        .actionCards{
+            display: flex;
+            justify-content: center;
+            button{
+                color: #fff;
+                background-image: linear-gradient(180deg, #0b8e0b 1%, #06a106 100%);
+                width: 20rem;
+                height: 3rem;
+                border-radius: 1rem;
+                font-weight: bold;
+            }
+        }
+    }
+}

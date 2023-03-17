@@ -1,0 +1,35 @@
+.map-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    .muiCard {
+        margin: 8px;
+        .cardImage{
+            margin-left: 1px;
+        }
+        .cardContent {
+            height: 10rem;
+            .cardTitle {
+                font-weight: bold;
+            }
+            .cardDescription {
+                font-weight: bold;
+                color: #2e2c2c;
+            }
+        }
+        .cardActions{
+            display: flex;
+            justify-content: center;
+            button {
+                color: #fff;
+                background-image: linear-gradient(180deg, #0b8e0b 1%, #06a106 100%);
+                width: 10rem;
+                height: 3rem;
+                border-radius: 1rem;
+                font-weight: bold;
+            }
+        }
+    } 
+    
+}
